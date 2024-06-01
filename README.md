@@ -292,7 +292,7 @@ Feel free to use my code on your project. Please put a reference to this reposit
 [angularsg]: https://twitter.com/angularsg
 [angularvn]: https://twitter.com/ngvnofficial
 [nartc]: https://github.com/nartc
-[gist]: https://gist.github.com/trungk18/7ef8766cafc05bc8fd87be22de6c5b12
+[gist]: https://gist.github.com/trungvose/7ef8766cafc05bc8fd87be22de6c5b12
 [dep-graph-nx]: https://nx.dev/latest/angular/structure/dependency-graph
 [stack]: /libs/web/shared/assets/src/assets/readme/angular-spotify-tech-stack.png
 [time]: /libs/web/shared/assets/src/assets/readme/time-spending.png
